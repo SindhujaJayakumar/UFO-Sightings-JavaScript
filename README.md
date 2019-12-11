@@ -1,5 +1,4 @@
 # UFO-Sightings-JavaScript
-# Unit 14 | Assignment - JavaScript and DOM Manipulation
 
 ## Background
 
